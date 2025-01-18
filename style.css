@@ -1,0 +1,36 @@
+h1 {
+    color:yellowgreen ;
+    background-color:green ;
+    font-size:36px ;
+    
+}
+
+p {
+    color:black ;
+    font-size:24px ;
+   
+}
+
+h2 {
+    color:blue ;
+    font-size:36px ;
+    
+}
+
+li {
+    color: black;
+    font-weight: bold ;
+}
+
+#Ayasofya-Link {
+    text-decoration: none ;
+}
+#Galata-Kulesi-Link {
+    text-decoration: none ;
+}
+#Kız-Kulesi-Link {
+    text-decoration: none ;
+}
+#Yerebatan-Sarnıcı-Link {
+    text-decoration: none  ;
+}
